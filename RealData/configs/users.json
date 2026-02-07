@@ -1,0 +1,11 @@
+{
+  "classes": ["airplane","automobile","bird","cat","deer","dog","frog","horse","ship","truck"],
+  "groups": [
+    {"name": "Pet Lovers",   "weights": {"cat":0.6,"dog":0.4}, "mass": 0.18},
+    {"name": "Canine Focus", "weights": {"dog":0.7,"cat":0.3}, "mass": 0.17},
+    {"name": "Vehicles A",   "weights": {"airplane":0.5,"ship":0.3,"automobile":0.2}, "mass": 0.16},
+    {"name": "Vehicles B",   "weights": {"automobile":0.6,"truck":0.4}, "mass": 0.16},
+    {"name": "Nature",       "weights": {"bird":0.4,"deer":0.3,"frog":0.2,"horse":0.1}, "mass": 0.17},
+    {"name": "Mixed Market", "weights": {"cat":0.2,"dog":0.2,"airplane":0.15,"automobile":0.15,"ship":0.1,"truck":0.2}, "mass": 0.16}
+  ]
+}

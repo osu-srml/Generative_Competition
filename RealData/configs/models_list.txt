@@ -1,0 +1,6 @@
+./checkpoints/ddpm_lora_airauto.pt
+./checkpoints/ddpm_lora_birdcat.pt
+./checkpoints/ddpm_lora_catdog.pt
+./checkpoints/ddpm_lora_catdog1.5.pt
+./checkpoints/ddpm_lora_half.pt
+./checkpoints/ddpm_lora_shiptruck.pt
